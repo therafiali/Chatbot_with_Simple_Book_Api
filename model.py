@@ -41,7 +41,9 @@ def connector(key, prompt):
     """
     Get Api key and prompt
     """
-
+     if not key or not prompt:
+        raise ValueError("Error: OpenAi API Key and Your Query are also required")
+    
     client = OpenAI(api_key=key)
     
     def run_conversation(main_request: str) -> str:
