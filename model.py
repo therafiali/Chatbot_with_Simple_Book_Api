@@ -1,3 +1,7 @@
+import requests
+import json
+from openai import OpenAI
+from openai.types.chat.chat_completion import ChatCompletionMessage, ChatCompletion    
 
 def get_all_books():
     """Get List of all books"""
