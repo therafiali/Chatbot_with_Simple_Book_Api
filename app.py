@@ -10,6 +10,9 @@ BOT_AVATAR = "🤖"
 
 password = st.sidebar.text_input("Enter Your Open API Key", type="password",placeholder="sk-j*****************************")
 
+if len(password) < 1:
+    st.sidebar.markdown(f"<div style='background-color:white; color: red; font-size: 15px; padding:0px; margin-top: -10px; margin-bottom: 20px; border-radius: 10px;'>*OpenAi API key is required</div>", unsafe_allow_html=True)
+
 st.sidebar.markdown('<a href="https://pk.linkedin.com/in/therafiali" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30"></a>', unsafe_allow_html=True)
 st.sidebar.write("Here is my linkedin")
 
