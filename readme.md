@@ -3,8 +3,10 @@ This project uses the OpenAI API to interact with the Simple Books API, a mock A
 
 https://simple-books-api.glitch.me/books
 
-***Watch 
+-- Watch -- 
 <video src="https://youtu.be/ToefrGde6NY"></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToefrGde6NY?si=NVqzfEK-nhuvccS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 - `get_all_books:` This function returns a list of all books in the Simple Books API database, along with their titles, authors, and prices.
