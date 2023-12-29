@@ -3,7 +3,7 @@ This project uses the OpenAI API to interact with the Simple Books API, a mock A
 
 https://simple-books-api.glitch.me/books
 _______________________________________________
-Watch Youtube Video:
+### Watch Youtube Video:
 [![Watch the video](https://i.ytimg.com/vi/ToefrGde6NY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIGUoWjAP&rs=AOn4CLDmEa-5rzsbChZJSsF9OWOv3TaBtw)](https://www.youtube.com/watch?v=ToefrGde6NY)
 
 
@@ -48,8 +48,8 @@ Book title: “Harry Potter and the Philosopher’s Stone”
 get_all_books: The book is not in the list of books, as the Simple Books API only contains books published before 2000.
 get_price: The function returns an error message: “Book not found.”
 get_single_book: The function returns an error message: “Book not found.”
-###[Connect with me on Linkedin](https://www.linkedin.com/in/therafiali/)
-###[Directly Contact with me on email](mailto:therafiali@gmial.com)
+### [Connect with me on Linkedin](https://www.linkedin.com/in/therafiali/)
+### [Directly Contact with me on email](mailto:therafiali@gmial.com)
 - therafiali@gmail.com
 
 License
