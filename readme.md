@@ -2,9 +2,8 @@
 This project uses the OpenAI API to interact with the Simple Books API, a mock API that provides information about books. The project defines three functions that use the OpenAI API to call the Simple Books API endpoints:
 
 https://simple-books-api.glitch.me/books
-Watch Youtube Video:
 _______________________________________________
-
+Watch Youtube Video:
 [![Watch the video](https://i.ytimg.com/vi/ToefrGde6NY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhaIGUoWjAP&rs=AOn4CLDmEa-5rzsbChZJSsF9OWOv3TaBtw)](https://www.youtube.com/watch?v=ToefrGde6NY)
 
 
