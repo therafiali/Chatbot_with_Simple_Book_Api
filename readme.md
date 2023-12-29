@@ -3,7 +3,7 @@ This project uses the OpenAI API to interact with the Simple Books API, a mock A
 
 https://simple-books-api.glitch.me/books
 
-*** Watch 
+***Watch 
 <video src="https://youtu.be/ToefrGde6NY"></video>
 
 
