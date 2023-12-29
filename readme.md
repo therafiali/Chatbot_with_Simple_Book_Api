@@ -3,6 +3,10 @@ This project uses the OpenAI API to interact with the Simple Books API, a mock A
 
 https://simple-books-api.glitch.me/books
 
+*** Watch 
+<video src="https://youtu.be/ToefrGde6NY"></video>
+
+
 - `get_all_books:` This function returns a list of all books in the Simple Books API database, along with their titles, authors, and prices.
 - `get_price:` This function takes a book title as an argument and returns the price of the book from the Simple Books API.
 - `get_single_book:` This function takes a book title as an argument and returns the whole detail of the book from the Simple Books API, including the title, author, price, description, and rating.
@@ -43,8 +47,8 @@ Book title: “Harry Potter and the Philosopher’s Stone”
 get_all_books: The book is not in the list of books, as the Simple Books API only contains books published before 2000.
 get_price: The function returns an error message: “Book not found.”
 get_single_book: The function returns an error message: “Book not found.”
-####[Connect with me on Linkedin](https://www.linkedin.com/in/therafiali/)
-####[Directly Contact with me on email](mailto:therafiali@gmial.com)
+###[Connect with me on Linkedin](https://www.linkedin.com/in/therafiali/)
+###[Directly Contact with me on email](mailto:therafiali@gmial.com)
 - therafiali@gmail.com
 
 License
